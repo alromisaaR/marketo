@@ -1,0 +1,11 @@
+{
+  "Products": "Products",
+  "cart": "Cart",
+  "favorites": "Favorites",
+  "add_to_cart": "Add to Cart",
+  "in_stock": "In Stock",
+  "out_of_stock": "Out of Stock",
+  "no_favorites": "No favorites yet",
+  "change_language": "Change Language",
+  "change_theme": "Change Theme"
+}

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "942324669950",
+    "project_id": "ecommerce-project-eb9a0",
+    "storage_bucket": "ecommerce-project-eb9a0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:942324669950:android:c8d1a3aeee1c60afc4f4af",
+        "android_client_info": {
+          "package_name": "com.example.marketo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvfdeZgzE7cTwYLeqYf0C2OgTJY7d5MOA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
